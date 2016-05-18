@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="file1.css">
+
+</head>
+<body>
+
+<div class="header">
+<h1>Rohith Kakani</h1>
+</div>
+
+<div class="row">
+
+<div class="col-3 menu">
+<ul>
+<li >UI experience</li>
+<li>Javascript libraries</li>
+<li>QA experience</li>
+<li>JAVA Experience</li>
+</ul>
+</div>
+
+<div class="col-6">
+<h1><em>About me</em></h1>
+<p>Excellent communication skills, strong analytical and logical abilities in Business Analysis and Technical documentation.
+</p>
+</div>
+<div class="col-3 right">
+<div class="aside">
+<h2>Experience?</h2>
+<p id="text2">6 years of experience as UI Developer and web development </p>
+<h2>Clients?</h2>
+<p id="text2">ETRADE, BCBS, AVESKA and AXIS BANK</p>
+<h2>Domains?</h2>
+<p id="text2">ECommerce, Insurance and Banking</p>
+</div>
+</div>
+
+</div>
+
+<div class="footer">
+<p>LOOKING FORWARD TO HEAR FROM YOU</p>
+</div>
+
+</body>
+</html>
